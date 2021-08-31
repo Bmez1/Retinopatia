@@ -1,0 +1,3 @@
+# ignorando las imágenes son muy pesadas
+images/test/*
+images/train/*
