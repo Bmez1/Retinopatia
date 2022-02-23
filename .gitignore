@@ -1,3 +1,4 @@
 # ignorando las imágenes son muy pesadas
 images/test/*
 images/train/*
+Retinopatia_Prueba.ipynb
